@@ -1,1 +1,1 @@
-[]: https://github.com/tarric1/MultiArmedBandit/wiki
+https://github.com/tarric1/MultiArmedBandit/wiki
